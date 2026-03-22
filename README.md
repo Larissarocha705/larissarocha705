@@ -45,7 +45,7 @@
 </picture>
 
 ###<img width="1900" height="925" alt="image" src="https://github.com/user-attachments/assets/1fc19ce9-e184-494c-a238-d60f3b1ffe06" />
-## Hi there 👋
+
 
 <!--
 **Larissarocha705/larissarocha705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,6 @@
 <h2 align="left">Hi, my name is Larissa, I'm a computer science and systems development student.</h2>
 
 ###
-<img src="https://via.placeholder.com/1000x300/BFE9FF/000000?text=Bem-vinda+ao+meu+GitHub" />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=larissarocha705&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=larissarocha705&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />

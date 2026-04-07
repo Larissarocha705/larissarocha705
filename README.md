@@ -12,22 +12,6 @@
 
 Olá! Eu sou a **Larissa Rocha**, uma **Estudante de Sistemas** 👩‍💻✨ — apaixonada por tecnologia, animes e café. Assim como uma protagonista de anime, estou sempre em busca de evoluir, aprender novos jutsus de programação e deixar minha marca no mundo dev! 🍥
 
-```python
-# Código de Garota - Meu lema diário
-class CodigoDeGarota:
-    def __init__(self):
-        self.nome = "Larissa Rocha"
-        self.poder = "Transformar café em código"
-        self.nivel = "Evoluindo sempre"
-    
-    def rotina(self):
-        while True:
-            self.aprender()
-            self.codificar()
-            self.superar_desafios()
-            if self.virar_referencia():
-                print("🌸 Missão cumprida! 🌸")
-
 ## 💼 Minha Jornada como Código de Garota
 
 > *"Cada linha de código escrita é um novo nível conquistado na minha jornada como desenvolvedora."*

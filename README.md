@@ -38,16 +38,16 @@ Olá! Eu sou a **Larissa Rocha**, uma **Estudante de Sistemas** 👩‍💻✨ �
 ```mermaid
 timeline
     title 🎌 Minha Evolução como Dev
-    section 2022
+    section 2024
         Primeiros passos : HTML & CSS
         Descobrindo a magia : JavaScript básico
-    section 2023
+    section 2025
         Aprendendo lógica : Python
         Primeiros projetos : Sites simples
-    section 2024
+    section 2025
         Aprofundando : JavaScript avançado
         Banco de dados : SQL e integrações
-    section 2025
+    section 2026 a meta é 
         Full Stack : React + Node.js
         Futuro : Ciência da Computação
 

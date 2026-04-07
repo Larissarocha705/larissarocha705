@@ -6,7 +6,7 @@
   
 </div>
 
-## 🌸 Sobre Mim - *Girls Tech *
+## 🌸 Sobre Mim - *Girl Tech *
 
 > *"Meu código é minha assinatura. Cada linha, um pedaço da minha alma de desenvolvedora."*
 

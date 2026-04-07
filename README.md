@@ -10,7 +10,7 @@
 
 > *"Assim como uma protagonista de shonen, estou sempre em busca de evoluir minhas habilidades e superar novos desafios!"*
 
-Olá! Eu sou a **Yuna**, uma desenvolvedora apaixonada por tecnologia, animes e café ☕✨. Acredito que programação é como aprender um novo jutsu: requer prática, dedicação e criatividade! 🍥
+Olá! Eu sou a **Larissa**, uma desenvolvedora apaixonada por tecnologia, animes e café ☕✨. Acredito que programação é como aprender um novo jutsu: requer prática, dedicação e criatividade! 🍥
 
 ```python
 # Meu lema de código

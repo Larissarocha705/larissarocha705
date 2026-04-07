@@ -6,11 +6,11 @@
   
 </div>
 
-## 🌸 Sobre Mim - *Código de Garota*
+## 🌸 Sobre Mim - *Girls Tech *
 
 > *"Meu código é minha assinatura. Cada linha, um pedaço da minha alma de desenvolvedora."*
 
-Olá! Eu sou a **Larissa Rocha**, uma **Código de Garota** 👩‍💻✨ — apaixonada por tecnologia, animes e café. Assim como uma protagonista de anime, estou sempre em busca de evoluir, aprender novos jutsus de programação e deixar minha marca no mundo dev! 🍥
+Olá! Eu sou a **Larissa Rocha**, uma **Estudante de Sistemas** 👩‍💻✨ — apaixonada por tecnologia, animes e café. Assim como uma protagonista de anime, estou sempre em busca de evoluir, aprender novos jutsus de programação e deixar minha marca no mundo dev! 🍥
 
 ```python
 # Código de Garota - Meu lema diário
@@ -28,5 +28,42 @@ class CodigoDeGarota:
             if self.virar_referencia():
                 print("🌸 Missão cumprida! 🌸")
 
-<p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
+## 💼 Minha Jornada como Código de Garota
+
+> *"Cada linha de código escrita é um novo nível conquistado na minha jornada como desenvolvedora."*
+
+---
+
+### 🚀 Minhas Experiências com Código
+
+<div align="center">
+  
+| Linguagem | Onde uso | Nível de Domínio | Projetos |
+|-----------|----------|------------------|----------|
+| **🟨 JavaScript** | Front-end, Back-end, Automação | ⭐⭐⭐⭐ | Sites interativos, APIs, bots |
+| **🐍 Python** | Análise de dados, Automação, Scripts | ⭐⭐⭐⭐ | Web scraping, automação de tarefas |
+| **🌐 HTML5** | Estrutura de sites | ⭐⭐⭐⭐⭐ | Landing pages, portfólios |
+| **🎨 CSS3** | Estilização, Animações | ⭐⭐⭐⭐ | Design responsivo, temas personalizados |
+
+</div>
+
+---
+
+### 📚 Minha Trajetória na Programação
+
+```mermaid
+timeline
+    title 🎌 Minha Evolução como Dev
+    section 2022
+        Primeiros passos : HTML & CSS
+        Descobrindo a magia : JavaScript básico
+    section 2023
+        Aprendendo lógica : Python
+        Primeiros projetos : Sites simples
+    section 2024
+        Aprofundando : JavaScript avançado
+        Banco de dados : SQL e integrações
+    section 2025
+        Full Stack : React + Node.js
+        Futuro : Ciência da Computação
 

@@ -10,7 +10,7 @@
 
 > *"Meu código é minha assinatura. Cada linha, um pedaço da minha alma de desenvolvedora."*
 
-Olá! Eu sou a **Larissa Rocha**, uma **Estudante de Sistemas** 👩‍💻✨ — apaixonada por tecnologia, animes e café. Assim como uma protagonista de anime, estou sempre em busca de evoluir, aprender novos jutsus de programação e deixar minha marca no mundo dev! 🍥
+Olá! Eu sou a **Larissa Rocha**, uma **Estudante de Ciência da Computação e Desenvolvimento de Sistemas** 👩‍💻✨ — apaixonada por tecnologia, animes e café. Assim como uma protagonista de anime, estou sempre em busca de evoluir, aprender novos jutsus de programação e deixar minha marca no mundo dev! 🍥
 
 ## 💼 Minha Jornada como Código de Garota
 
@@ -40,14 +40,13 @@ timeline
     title 🎌 Minha Evolução como Dev
     section 2024
         Primeiros passos : HTML & CSS
-        Descobrindo a magia : JavaScript básico
+        Descobrindo a magia : Estrutura de páginas
     section 2025
         Aprendendo lógica : Python
         Primeiros projetos : Sites simples
     section 2025
-        Aprofundando : JavaScript avançado
-        Banco de dados : SQL e integrações
-    section 2026 a meta é 
-        Full Stack : React + Node.js
-        Futuro : Ciência da Computação
+        Aprofundando : JavaScript 
+        section 2026 a meta é 
+       Front end completo: React + Node.js
+        Futuro : Backend
 
